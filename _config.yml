@@ -12,7 +12,7 @@ github_repo: "https://github.com/spreadken/spreadken.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-avator.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-avator.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: c4534c6fe7ea91bd88b3                            #生成的clientID
-  clientSecret: d9d6b86015aa6e4ccb8942a5aafaad98a12ad083    #生成的clientSecret
+  clientID: 1900af86c6d94630ca32                            #生成的clientID
+  clientSecret: e7a72febb981ca81c058a2e970674125270305de    #生成的clientSecret
   repo: spreadken.github.io    #仓库名称
   owner: spreadken    #github用户名
   admin: spreadken
